@@ -1,0 +1,3 @@
+execute in cmd : jupyter lab
+
+jupyter notebook
